@@ -1,14 +1,15 @@
 {
   "version": 1,
-  "source": "muse",
-  "updated_at": "2026-10-30T08:44:00+08:00",
-  "edition": "morning",
-  "title": "早報（2026-10-30）",
+  "source": "workbuddy",
+  "updated_at": "2026-10-30T20:45:00+08:00",
+  "edition": "evening",
+  "title": "晚報（2026-10-30）",
   "bullets": [
-    "S&P 500 7,720.39（-0.30%）· Nasdaq 26,184.72（-1.38%）· 道指 52,342.56（-0.25%）",
-    "Alphabet -12.64% 至 $283.82；Microsoft $530.14（-0.16%）",
-    "Q3 GDP +3.4%；9 月 PCE +3.6%；12 月加息預期約八成",
-    "Amazon、Intel 盤後跌；今日焦點：日本央行議息、ExxonMobil／Chevron 業績"
+    "聯儲局10月28日議息後維持利率不變，聯邦基金利率目標區間保持3.75%-4.00%，9月曾加息25基點至4%",
+    "美國第三季GDP增長3.4%，高過市場預期3.2%；9月PCE物價指數按年升3.6%，核心PCE升3.1%",
+    "Alphabet公布季績遜預期且AI蠶食傳統搜索業務，股價單日跌約12%，拖累科技板塊",
+    "道指10月29日收約52,323點，跌0.47%；Caterpillar同日跌9.5%成道指最大跌幅成分股",
+    "國際油價維持六個月高位，10月23日收報每桶約103.59美元，霍爾木茲海峽局勢持續緊張"
   ],
-  "sources": "Investopedia、Reuters、Zacks、Longbridge、Stocktwits（盤後期貨）、CME FedWatch、美國商務部（BEA）"
+  "sources": "Trading Economics、FXEmpire、Dow Jones Weekly Market Update、Federal Reserve、CME FedWatch"
 }
