@@ -1,15 +1,15 @@
 {
   "version": 1,
   "source": "workbuddy",
-  "updated_at": "2026-10-30T20:45:00+08:00",
-  "edition": "evening",
-  "title": "晚報（2026-10-30）",
+  "updated_at": "2026-10-31T08:45:00+08:00",
+  "edition": "morning",
+  "title": "早報（2026-10-31）",
   "bullets": [
-    "聯儲局10月28日議息後維持利率不變，聯邦基金利率目標區間保持3.75%-4.00%，9月曾加息25基點至4%",
-    "美國第三季GDP增長3.4%，高過市場預期3.2%；9月PCE物價指數按年升3.6%，核心PCE升3.1%",
-    "Alphabet公布季績遜預期且AI蠶食傳統搜索業務，股價單日跌約12%，拖累科技板塊",
-    "道指10月29日收約52,323點，跌0.47%；Caterpillar同日跌9.5%成道指最大跌幅成分股",
-    "國際油價維持六個月高位，10月23日收報每桶約103.59美元，霍爾木茲海峽局勢持續緊張"
+    "美股隔夜大跌，道指收約51,795點跌1.16%，NVIDIA跌5%為道指最大跌幅成分股；S&P 500跌1.82%，Nasdaq跌1.97%",
+    "Intel業績指引遠遜預期，股價單日崩跌約31%，Q4營收指引150-160億美元（分析師預期170億），EPS指引0.25美元（預期0.43美元）",
+    "Amazon盤後跌約5%，第三季業績不及華爾街預期；Sandisk同日跌15%，科技板塊全線受壓",
+    "金價跌至約3,876美元，單日跌3.30%；布倫特原油維持約114美元高位，中東局勢持續緊張",
+    "避險資金流入消費防禦及公用事業板塊逆市上升；芝加哥10月PMI錄55.3，略低於預期56.1"
   ],
-  "sources": "Trading Economics、FXEmpire、Dow Jones Weekly Market Update、Federal Reserve、CME FedWatch"
+  "sources": "FXEmpire、Reuters、RTTNews、Dow Jones Weekly Market Update、Federal Reserve"
 }
